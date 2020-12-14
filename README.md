@@ -1,4 +1,4 @@
-<img align="right" img="https://omame.tech/icon.jpg" width="128">
+<img align="right" src="https://omame.tech/icon.jpg" width="128">
 
 # omame
 that's me indeed
