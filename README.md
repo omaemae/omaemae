@@ -13,7 +13,8 @@ that's me indeed
 - Java
 - Python
 - C#
+- some JS
 - some C
 - some C++
-- learning QML i guess
-- maybe some Lua?
+- learning QML
+- learning TS
