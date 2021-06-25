@@ -4,7 +4,7 @@
 that's me indeed
 
 ## projects i currently work on 
-- [CyberOS](https://github.com/cyberos)
+- [CyberOS](https://getcyberos.org)
 - gurb botoloder, a moderation bot for [TFT](https://www.youtube.com/c/FlyTechVideos)
 
 (not much else really)
